@@ -26,4 +26,4 @@ bcftools sort FN27_de_novo_final_all.vcf.gz --output-type z --output-file FN27_d
 ```
 
 -   Issues with the previous version of VeP, so I updated to the latest from GitHub and ran install
--   No exons in identified in the original GFF3. Using the GFF marked 'exon'
+-   No exons identified in the original GFF3. Using the GFF marked 'exon'
